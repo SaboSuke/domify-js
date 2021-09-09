@@ -1,0 +1,25 @@
+{
+  "name": "domify",
+  "version": "1.0.0",
+  "description": "domify gives you a set of methods that you can use to manipulate the dom a bit easier. Something like jquery but so simple.",
+  "main": "domify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaboSuke/domify-js.git"
+  },
+  "keywords": [
+    "dom",
+    "dom-manipulation",
+    "library",
+    "simple"
+  ],
+  "author": "Essam Abed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaboSuke/domify-js/issues"
+  },
+  "homepage": "https://github.com/SaboSuke/domify-js#readme"
+}
